@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSMcrud:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9332c53c-afdb-47aa-8519-9aaeb2941a9d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1b47HagG7U3Hjl25S7RmLx6ISbh" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.20727673" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\迅雷下载\SSMcrud\web\static\bootstrap-3.3.7-dist\js" />
+      <recent name="E:\迅雷下载\SSMcrud\web\static" />
+      <recent name="E:\迅雷下载\SSMcrud\web" />
+      <recent name="E:\迅雷下载\SSMcrud\web\WEB-INF" />
+      <recent name="E:\迅雷下载\SSMcrud\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\迅雷下载\SSMcrud\web" />
+      <recent name="E:\迅雷下载\SSMcrud\web\static" />
+      <recent name="E:\迅雷下载\SSMcrud\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.51">
+    <configuration name="MBGTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crud.test.MBGTest" />
+      <module name="SSMcrud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSMcrud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crud.test.MapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.testCRUD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSMcrud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crud.test.MapperTest" />
+      <option name="METHOD_NAME" value="testCRUD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSMcrud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crud.test.MvcTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSMcrud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crud.test.MvcTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.51" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.51" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SSMcrud:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SSMcrud_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSMcrud" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59818" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSMcrud:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MBGTest" />
+      <item itemvalue="JUnit.MapperTest" />
+      <item itemvalue="JUnit.MapperTest.testCRUD" />
+      <item itemvalue="JUnit.MvcTest" />
+      <item itemvalue="JUnit.MvcTest.testPage" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.51" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MvcTest.testPage" />
+        <item itemvalue="JUnit.MvcTest" />
+        <item itemvalue="JUnit.MapperTest.testCRUD" />
+        <item itemvalue="JUnit.MapperTest" />
+        <item itemvalue="Application.MBGTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9332c53c-afdb-47aa-8519-9aaeb2941a9d" name="Default Changelist" comment="" />
+      <created>1587879424824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587879424824</updated>
+      <workItem from="1587879426358" duration="12840000" />
+      <workItem from="1587904499975" duration="7736000" />
+      <workItem from="1587913302927" duration="6241000" />
+      <workItem from="1587920368484" duration="128000" />
+      <workItem from="1587954868511" duration="11499000" />
+      <workItem from="1587992862616" duration="6136000" />
+      <workItem from="1588050585238" duration="9181000" />
+      <workItem from="1588129291844" duration="19977000" />
+      <workItem from="1588226207866" duration="3849000" />
+      <workItem from="1588252091056" duration="5665000" />
+      <workItem from="1588301009336" duration="13333000" />
+      <workItem from="1588341421206" duration="1120000" />
+      <workItem from="1588344600358" duration="660000" />
+      <workItem from="1588389091796" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="92" key="#Project_Structure" timestamp="1588173931511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="392" y="92" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588173931511" />
+    <state x="458" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588312952312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="458" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588312952312" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1587964238457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587964238457" />
+    <state x="579" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587879432000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587879432000" />
+    <state x="649" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587913560362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587913560362" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587880059325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587880059325" />
+    <state x="831" y="293" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1588229070331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="293" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588171391856" />
+    <state x="831" y="293" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588229070331" />
+    <state x="1032" y="225" key="FileChooserDialogImpl" timestamp="1587920332187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="225" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587911859523" />
+    <state x="1032" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587920332187" />
+    <state width="1293" height="181" key="GridCell.Tab.0.bottom" timestamp="1588389260637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260637" />
+    <state width="1293" height="181" key="GridCell.Tab.0.center" timestamp="1588389260637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080349" />
+    <state width="1293" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260637" />
+    <state width="1293" height="181" key="GridCell.Tab.0.left" timestamp="1588389260637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080349" />
+    <state width="1293" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260637" />
+    <state width="1293" height="181" key="GridCell.Tab.0.right" timestamp="1588389260637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260637" />
+    <state width="1293" height="181" key="GridCell.Tab.1.bottom" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.1.center" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.1.left" timestamp="1588389260637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260637" />
+    <state width="1293" height="181" key="GridCell.Tab.1.right" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.2.bottom" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.2.center" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.2.left" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.2.right" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080350" />
+    <state width="1293" height="181" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.3.bottom" timestamp="1588389260639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080351" />
+    <state width="1293" height="181" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260639" />
+    <state width="1293" height="181" key="GridCell.Tab.3.center" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080351" />
+    <state width="1293" height="181" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.3.left" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080351" />
+    <state width="1293" height="181" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="181" key="GridCell.Tab.3.right" timestamp="1588389260638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="181" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588315080351" />
+    <state width="1293" height="181" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588389260638" />
+    <state width="1293" height="282" key="GridCell.Tab.4.bottom" timestamp="1587908784643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784643" />
+    <state width="1293" height="282" key="GridCell.Tab.4.center" timestamp="1587908784643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.4.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784643" />
+    <state width="1293" height="282" key="GridCell.Tab.4.left" timestamp="1587908784642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.4.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784642" />
+    <state width="1293" height="282" key="GridCell.Tab.4.right" timestamp="1587908784643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.4.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784643" />
+    <state width="1293" height="282" key="GridCell.Tab.5.bottom" timestamp="1587908784175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.5.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784175" />
+    <state width="1293" height="282" key="GridCell.Tab.5.center" timestamp="1587908784175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.5.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784175" />
+    <state width="1293" height="282" key="GridCell.Tab.5.left" timestamp="1587908784174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.5.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784174" />
+    <state width="1293" height="282" key="GridCell.Tab.5.right" timestamp="1587908784175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.5.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587908784175" />
+    <state x="581" y="113" key="SettingsEditor" timestamp="1588229073393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="113" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588171395205" />
+    <state x="581" y="113" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588229073393" />
+    <state width="200" height="461" key="SqlResolveConfigurable" timestamp="1587885476039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="200" height="461" key="SqlResolveConfigurable/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587885476039" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588313573851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588313573851" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588056194709" />
+    <state x="640" y="202" key="spring file set editor" timestamp="1587904617189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="202" key="spring file set editor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587904617189" />
+  </component>
+</project>
